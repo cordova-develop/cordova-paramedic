@@ -6,6 +6,8 @@ install:
   - npm install
   - npm link
 
+image: Visual Studio 2017
+
 build: off
 
 test_script:
