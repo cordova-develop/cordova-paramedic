@@ -41,6 +41,7 @@ JasmineParamedicProxy.prototype.jasmineStarted = function (o) {
 };
 
 JasmineParamedicProxy.prototype.specStarted = function (o) {
+    cacheEvent('log', 'OK');
     cacheEvent('specStarted', o);
 };
 
