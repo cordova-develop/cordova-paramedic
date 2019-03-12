@@ -4,5 +4,5 @@
     "cleanUpAfterRun": true,
     "verbose": true,
     "sauceDeviceName": "safari",
-    "saucePlatformVersion": "11.1"
+    "saucePlatformVersion": "12"
 }
